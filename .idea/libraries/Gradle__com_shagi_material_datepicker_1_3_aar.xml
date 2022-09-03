@@ -1,0 +1,39 @@
+<component name="libraryTable">
+  <library name="Gradle: com.shagi:material-datepicker:1.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5bedfacaa82fd62c3cb8a3d4fd3c1270/jetified-material-datepicker-1.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5bedfacaa82fd62c3cb8a3d4fd3c1270/jetified-material-datepicker-1.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5bedfacaa82fd62c3cb8a3d4fd3c1270/jetified-material-datepicker-1.3/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c1a49a564ec60ad1e2944e6ec9365fbe/jetified-material-datepicker-1.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c1a49a564ec60ad1e2944e6ec9365fbe/jetified-material-datepicker-1.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c1a49a564ec60ad1e2944e6ec9365fbe/jetified-material-datepicker-1.3/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/94d91935ac81a5fae514e8039dae8024/jetified-material-datepicker-1.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/94d91935ac81a5fae514e8039dae8024/jetified-material-datepicker-1.3/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/94d91935ac81a5fae514e8039dae8024/jetified-material-datepicker-1.3/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a0c393807ea25ad4fa89798822d30f6d/jetified-material-datepicker-1.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a0c393807ea25ad4fa89798822d30f6d/jetified-material-datepicker-1.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a0c393807ea25ad4fa89798822d30f6d/jetified-material-datepicker-1.3/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9e076c974738b6eb49bf8727bca7997d/jetified-material-datepicker-1.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9e076c974738b6eb49bf8727bca7997d/jetified-material-datepicker-1.3/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/9e076c974738b6eb49bf8727bca7997d/jetified-material-datepicker-1.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/39a4a2e5a0ce6eeb99bef6faddf3c695/jetified-material-datepicker-1.3/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/39a4a2e5a0ce6eeb99bef6faddf3c695/jetified-material-datepicker-1.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/39a4a2e5a0ce6eeb99bef6faddf3c695/jetified-material-datepicker-1.3/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e38057c7413190f0248afeab43eff103/jetified-material-datepicker-1.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e38057c7413190f0248afeab43eff103/jetified-material-datepicker-1.3/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/e38057c7413190f0248afeab43eff103/jetified-material-datepicker-1.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6cd01e557f90d65bf6f0233fd8d5bd7a/jetified-material-datepicker-1.3/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6cd01e557f90d65bf6f0233fd8d5bd7a/jetified-material-datepicker-1.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6cd01e557f90d65bf6f0233fd8d5bd7a/jetified-material-datepicker-1.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d7f1780bc28f8f7fcfd5e7ea02272d4a/jetified-material-datepicker-1.3/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d7f1780bc28f8f7fcfd5e7ea02272d4a/jetified-material-datepicker-1.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d7f1780bc28f8f7fcfd5e7ea02272d4a/jetified-material-datepicker-1.3/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.shagi/material-datepicker/1.3/73beb8d689a683d347843274196f45fb0078f238/material-datepicker-1.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.shagi/material-datepicker/1.3/953b88f521a0a2724b7079a9b42d2f41c83e9ad7/material-datepicker-1.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
