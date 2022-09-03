@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pizza Hut</string>
+    <string name="remember_me">تذكرني</string>
+    <string name="item_name">اسم الصنف</string>
+    <string name="item_price">سعر الصنف</string>
+    <string name="Description">الوصف</string>
+    <string name="ok">نعم</string>
+    <string name="cancel">الغاء</string>
+    <string name="cash">كاش</string>
+    <string name="installments">تقسيط</string>
+    <string name="save" >حفظ</string>
+    <string name="hot_dog">هوت دوج</string>
+    <string name="pizza_price">سعر البيتزا :</string>
+    <string name="_20">$20</string>
+    <string name="total">الاجمالي :</string>
+    <string name="quantity">الكمية :</string>
+    <string name="item_details">تفاصيل الصنف</string>
+    <string name="buy">شراء</string>
+    <string name="price">االسعر</string>
+    <string name="date_and_time">الوقت والتاريخ</string>
+    <string name="sign_in">تسجيل دخول</string>
+    <string name="sign_up">تسجيل مستخدم جديد</string>
+    <string name="email">ايميل</string>
+    <string name="password">كلمة مرور</string>
+    <string name="sigin">تسجيل دخول</string>
+    <string name="add_image">اضافة صورة</string>
+    <string name="fullname">الاسم كامل</string>
+    <string name="username">اسم المستخدم</string>
+    <string name="re_password">اعادة كلمة المرور</string>
+    <string name="country">الدول</string>
+    <string name="birthdate">تاريخ الميلاد</string>
+    <string name="phone">رقم الهاتف</string>
+    <string name="is_administrator">هل انت مسؤول</string>
+    <string name="female">انثى</string>
+    <string name="male">ذكر</string>
+    <string name="clear_all_purchase">حذف عمليات الشراء</string>
+    <string name="show_all_purchase">اظهار عمليات الشراء</string>
+    <string name="show_last_purchase">اضهار اخر عملية شراء</string>
+    <string name="change_password">تغير كلة المرور</string>
+    <string name="add_new_item">اضافة صنف جديد</string>
+    <string name="for_lovers_of_distinction">For lovers of distinction</string>
+    <string name="pizza_hut">pizza hut</string>
+    <string name="_9">9</string>
+    <string name="enter_new_password">ادخل كلمة المرور الجديدة</string>
+    <string name="re_enter_password">اعد ادخال كلمة المرور الجديدة</string>
+    <string name="enter_old_password">ادخل كلمة المرورالقديمة</string>
+    <string name="daily_recipe">daily_recipe</string>
+    <string name="new_pass">كلمة السر الجديدة</string>
+    <string name="con_call">اتصل بنا</string>
+    <string name="con_fac">صفحة الفيسبوك الخاصة بنا</string>
+    <string name="con_site">موقع الكلية</string>
+    <string name="con_email">تواصل غبر الايميل</string>
+    <string name="con_back">رجوع</string>
+    <string name="con_contact"> تواصل معنا عبر </string>
+    <string name="adresss">العنوان</string>
+    <string name="register">تسجيل دخول </string>
+
+    <array name="counters">
+        <item>Palestine</item>
+        <item>Afghanistan</item>
+        <item>Albania</item>
+        <item>Algeria</item>
+        <item>Andorra</item>
+        <item>Angola</item>
+        <item>Antigua and Barbuda</item>
+        <item>Argentina</item>
+        <item>Armenia</item>
+        <item>Australia</item>
+        <item>Austria</item>
+        <item>Austrian Empire</item>
+        <item>Azerbaijan</item>
+        <item>Baden</item>
+        <item>Bahamas</item>
+        <item>Bahrain</item>
+        <item>Bangladesh</item>
+        <item>Barbados</item>
+        <item>Bavaria</item>
+        <item>Belarus</item>
+        <item>Belgium</item>
+        <item>Belize</item>
+        <item>Benin (Dahomey)</item>
+        <item>Bolivia</item>
+        <item>Bosnia and Herzegovina</item>
+        <item>Botswana</item>
+        <item>Brazil</item>
+        <item>Brunei</item>
+        <item>Brunswick and Lüneburg</item>
+        <item>Bulgaria</item>
+        <item>Burkina Faso (Upper Volta)</item>
+        <item>Burma</item>
+        <item>Burundi</item>
+        <item>Cabo Verde</item>
+        <item>Cambodia</item>
+        <item>Cameroon</item>
+        <item>Canada</item>
+        <item>Cayman Islands</item>
+        <item>Central African Republic</item>
+        <item>Central American Federation</item>
+        <item>Chad</item>
+        <item>Chile</item>
+        <item>China</item>
+        <item>Colombia</item>
+        <item>Comoros</item>
+        <item>Congo Free State</item>
+        <item>Costa Rica</item>
+        <item>Cote d’Ivoire (Ivory Coast)</item>
+        <item>Croatia</item>
+        <item>Cuba</item>
+        <item>Cyprus</item>
+        <item>Czechia</item>
+        <item>Czechoslovakia</item>
+        <item>Democratic Republic of the Congo</item>
+        <item>Denmark</item>
+        <item>Djibouti</item>
+        <item>Dominica</item>
+        <item>Dominican Republic</item>
+        <item>Duchy of Parma</item>
+        <item>East Germany (German Democratic Republic)</item>
+        <item>Ecuador</item>
+        <item>Egypt</item>
+        <item>El Salvador</item>
+        <item>Equatorial Guinea</item>
+        <item>Eritrea</item>
+        <item>Estonia</item>
+        <item>Eswatini</item>
+        <item>Ethiopia</item>
+        <item>Federal Government of Germany</item>
+        <item>Fiji</item>
+        <item>Finland</item>
+        <item>France</item>
+        <item>Gabon</item>
+        <item>Gambia</item>
+        <item>Georgia</item>
+        <item>Germany</item>
+        <item>Ghana</item>
+        <item>Grand Duchy of Tuscany</item>
+        <item>Greece</item>
+        <item>Grenada</item>
+        <item>Guatemala</item>
+        <item>Guinea</item>
+        <item>Guinea-Bissau</item>
+        <item>Guyana</item>
+        <item>Haiti</item>
+        <item>Hanover</item>
+        <item>Hanseatic Republics</item>
+        <item>Hawaii</item>
+        <item>Hesse</item>
+        <item>Holy See</item>
+        <item>Honduras</item>
+        <item>Hungary</item>
+        <item>Iceland</item>
+        <item>India</item>
+        <item>Indonesia</item>
+        <item>Iran</item>
+        <item>Iraq</item>
+        <item>Ireland</item>
+        <item>Italy</item>
+        <item>Jamaica</item>
+        <item>Japan</item>
+        <item>Jordan</item>
+        <item>Kazakhstan</item>
+        <item>Kenya</item>
+        <item>Kosovo</item>
+        <item>Kuwait</item>
+        <item>Kyrgyzstan</item>
+        <item>Laos</item>
+        <item>Latvia</item>
+        <item>Lebanon</item>
+        <item>Lesotho</item>
+        <item>Lew Chew</item>
+        <item>Liberia</item>
+        <item>Libya</item>
+        <item>Liechtenstein</item>
+        <item>Lithuania</item>
+        <item>Luxembourg</item>
+        <item>Madagascar</item>
+        <item>Malawi</item>
+        <item>Malaysia</item>
+        <item>Maldives</item>
+        <item>Mali</item>
+        <item>Malta</item>
+        <item>Marshall Islands</item>
+        <item>Mauritania</item>
+        <item>Mauritius</item>
+        <item>Mecklenburg-Schwerin</item>
+        <item>Mecklenburg-Strelitz</item>
+        <item>Mexico</item>
+        <item>Micronesia</item>
+        <item>Moldova</item>
+        <item>Monaco</item>
+        <item>Mongolia</item>
+        <item>Montenegro</item>
+        <item>Morocco</item>
+        <item>Mozambique</item>
+        <item>Namibia</item>
+        <item>Nassau</item>
+        <item>Nauru</item>
+        <item>Nepal</item>
+        <item>Netherlands</item>
+        <item>New Zealand</item>
+        <item>Nicaragua</item>
+        <item>Niger</item>
+        <item>Nigeria</item>
+        <item>North German Confederation</item>
+        <item>North German Union</item>
+        <item>North Macedonia</item>
+        <item>Norway</item>
+        <item>Oldenburg</item>
+        <item>Oman</item>
+        <item>Orange Free State</item>
+        <item>Pakistan</item>
+        <item>Palestine</item>
+        <item>Palau</item>
+        <item>Panama</item>
+        <item>Papal States</item>
+        <item>Papua New Guinea</item>
+        <item>Paraguay</item>
+        <item>Peru</item>
+        <item>Philippines</item>
+        <item>Piedmont-Sardinia</item>
+        <item>Poland</item>
+        <item>Portugal</item>
+        <item>Qatar</item>
+        <item>Republic of Genoa</item>
+        <item>Republic of Korea (South Korea)</item>
+        <item>Republic of the Congo</item>
+        <item>Romania</item>
+        <item>Russia</item>
+        <item>Rwanda</item>
+        <item>Saint Kitts and Nevis</item>
+        <item>Saint Lucia</item>
+        <item>Saint Vincent and the Grenadines</item>
+        <item>Samoa</item>
+        <item>San Marino</item>
+        <item>Sao Tome and Principe</item>
+        <item>Saudi Arabia</item>
+        <item>Schaumburg-Lippe</item>
+        <item>Senegal</item>
+        <item>Serbia</item>
+        <item>Seychelles</item>
+        <item>Sierra Leone</item>
+        <item>Singapore</item>
+        <item>Slovakia</item>
+        <item>Slovenia</item>
+        <item>Solomon Islands</item>
+        <item>Somalia</item>
+        <item>South Africa</item>
+        <item>South Sudan</item>
+        <item>Spain</item>
+        <item>Sri Lanka</item>
+        <item>Sudan</item>
+        <item>SSwedenuriname</item>
+        <item>Switzerland</item>
+        <item>Syria</item>
+        <item>Tajikistan</item>
+        <item>Tanzania</item>
+        <item>Texas</item>
+        <item>Thailand</item>
+        <item>Timor-Leste</item>
+        <item>Togo</item>
+        <item>Tonga</item>
+        <item>Trinidad and Tobago</item>
+        <item>Tunisia</item>
+        <item>Turkey</item>
+        <item>Turkmenistan</item>
+        <item>Tuvalu</item>
+        <item>Two Sicilies</item>
+        <item>Uganda</item>
+        <item>Ukraine</item>
+        <item>Union of Soviet Socialist Republics</item>
+        <item>United Arab Emirates</item>
+        <item>United Kingdom</item>
+        <item>Uruguay</item>
+        <item>Uzbekistan</item>
+        <item>Vanuatu</item>
+        <item>Venezuela</item>
+        <item>Vietnam</item>
+        <item>Württemberg</item>
+        <item>Yemen</item>
+        <item>Zambia</item>
+        <item>Zimbabwe</item>
+
+
+    </array>
+</resources>

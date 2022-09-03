@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/black_backround"
+    tools:context=".Contact_Us">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="288dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:layout_marginTop="100dp"
+        android:background="@drawable/whitesquare"
+        android:padding="@dimen/_15sdp"
+        android:text="@string/con_contact"
+        android:textSize="@dimen/_14ssp"
+        android:fontFamily="@font/easterwishes"
+        android:textColor="@color/white" />
+
+    <Button
+        android:id="@+id/btn_call"
+        android:layout_width="288dp"
+        android:layout_height="69dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/_20sdp"
+        android:background="@drawable/whitesquare"
+        android:drawableLeft="@drawable/ic_phone"
+        android:padding="@dimen/_15sdp"
+        android:text="@string/con_call"
+        android:textSize="@dimen/_10ssp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:fontFamily="@font/cheerfulyellow"/>
+
+    <Button
+        android:id="@+id/btn_facebook"
+        android:layout_width="wrap_content"
+        android:layout_height="69dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/_20sdp"
+        android:background="@drawable/whitesquare"
+        android:drawableLeft="@drawable/ic_facebook"
+        android:padding="@dimen/_12sdp"
+        android:text="@string/con_fac"
+        android:textColor="@color/black"
+        android:textSize="@dimen/_10ssp"
+        android:textStyle="bold"
+        android:fontFamily="@font/cheerfulyellow"/>
+
+
+    <Button
+        android:id="@+id/btn_website"
+        android:layout_width="288dp"
+        android:layout_height="69dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/_20sdp"
+        android:background="@drawable/whitesquare"
+        android:drawableLeft="@drawable/ic_app_store"
+        android:padding="@dimen/_15sdp"
+        android:text="@string/con_site"
+        android:textSize="@dimen/_10ssp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:fontFamily="@font/cheerfulyellow"/>
+
+    <Button
+        android:id="@+id/btn_gmail"
+        android:layout_width="288dp"
+        android:layout_height="69dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/_20sdp"
+        android:background="@drawable/whitesquare"
+        android:drawableLeft="@drawable/ic_gmail"
+        android:padding="@dimen/_15sdp"
+        android:text="@string/con_email"
+        android:textColor="@color/black"
+        android:textSize="@dimen/_10ssp"
+        android:textStyle="bold"
+        android:fontFamily="@font/cheerfulyellow"/>
+
+    <Button
+        android:id="@+id/btn_back"
+        android:layout_width="288dp"
+        android:layout_height="69dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/_20sdp"
+        android:background="@drawable/whitesquare"
+        android:drawableLeft="@drawable/ic_previous"
+         android:padding="@dimen/_15sdp"
+        android:text="@string/con_back"
+        android:textColor="@color/black"
+        android:textSize="@dimen/_10ssp"
+        android:textStyle="bold"
+        android:fontFamily="@font/cheerfulyellow"
+        />
+
+</LinearLayout>

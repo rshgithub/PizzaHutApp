@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/black">
+
+
+    <LinearLayout
+        android:id="@+id/linearLayout3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:textColor="@color/white"
+        android:layout_marginLeft="@dimen/_10sdp"
+        android:layout_marginRight="@dimen/_10sdp"
+        android:background="@drawable/material"
+        android:layout_marginTop="@dimen/_20sdp"
+        android:layout_marginBottom="@dimen/_10sdp"
+        app:layout_constraintTop_toBottomOf="@+id/SiginUp_CbAdminstrator">
+
+        <RadioGroup
+            android:id="@+id/list_RDGroup"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:orientation="horizontal">
+
+            <com.google.android.material.radiobutton.MaterialRadioButton
+                android:id="@+id/list_cash"
+                android:layout_width="184dp"
+                android:layout_height="wrap_content"
+                android:width="@dimen/_1sdp"
+                android:shadowColor="#2E2E32"
+                android:shadowDx="1"
+                android:layout_marginStart="@dimen/_5sdp"
+                android:shadowDy="1"
+                android:shadowRadius="2"
+                android:text="@string/cash"
+                android:textSize="@dimen/_15ssp"
+                android:fontFamily="@font/southerdemoregular"
+                android:textStyle="normal"
+
+                android:layout_marginLeft="@dimen/_5sdp" />
+
+            <com.google.android.material.radiobutton.MaterialRadioButton
+                android:id="@+id/list_installments"
+                android:layout_width="191dp"
+                android:layout_height="wrap_content"
+                android:width="@dimen/_1sdp"
+                android:shadowColor="#2E2E32"
+                android:shadowDx="1"
+                android:shadowDy="1"
+                android:shadowRadius="2"
+                android:text="@string/installments"
+                android:textSize="@dimen/_15ssp"
+                android:fontFamily="@font/southerdemoregular"
+                android:textStyle="normal"
+                />
+        </RadioGroup>
+    </LinearLayout>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerview"
+        android:layout_marginLeft="@dimen/_10sdp"
+        android:layout_marginRight="@dimen/_10sdp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </androidx.recyclerview.widget.RecyclerView>
+
+</LinearLayout>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.pizzahut"
+    android:installLocation="preferExternal">
+    <!-- to install app in external storage -->
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/pizzahutlogo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.PizzaHut">
+        <activity
+            android:name=".MainActivitytwo"
+            android:label="@string/title_activity_main_activitytwo"
+            android:theme="@style/Theme.PizzaHut.NoActionBar"></activity>
+        <activity android:name=".Contact_Us" />
+        <activity android:name=".Last_Purchases" />
+        <activity android:name=".Change_Password" />
+        <activity android:name=".Purchase_List" />
+        <activity android:name=".Add_Item" />
+        <activity android:name=".Setting" />
+        <activity android:name=".Item_Details" />
+        <activity android:name=".Main_Posts_Page" />
+        <activity android:name=".signup" />
+        <activity android:name=".Sign_In" />
+        <activity android:name=".Splash">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+</manifest>

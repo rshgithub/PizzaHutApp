@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/group">
+
+
+            <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/_10sdp"
+            android:gravity="center"
+            android:orientation="vertical"
+            tools:context=".Add_Item">
+
+            <com.google.android.material.imageview.ShapeableImageView
+                android:id="@+id/Image"
+                android:layout_width="@dimen/_100sdp"
+                android:layout_height="@dimen/_80sdp"
+                android:layout_gravity="center"
+                android:layout_marginTop="@dimen/_20sdp"
+                android:background="@drawable/border"
+                android:tint="@color/white"
+                app:srcCompat="@drawable/ic_baseline_person_24"
+                tools:ignore="VectorDrawableCompat" />
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/itemname"
+                android:layout_width="@dimen/_280sdp"
+                android:layout_height="@dimen/_44sdp"
+                android:layout_gravity="center"
+                android:layout_marginTop="@dimen/_15sdp"
+                android:layout_marginBottom="@dimen/_25sdp"
+                android:background="@drawable/item"
+                android:ems="10"
+                android:gravity="center|left"
+                android:hint="@string/item_name"
+                android:inputType="text"
+                android:paddingLeft="@dimen/_20sdp"
+                android:textColor="@color/black"
+                android:textColorHint="#F24C4B4B"
+                android:textSize="@dimen/_10ssp"
+                android:textStyle="bold" />
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/itemprice"
+                android:layout_width="@dimen/_280sdp"
+                android:layout_height="@dimen/_44sdp"
+                android:layout_gravity="center"
+                android:layout_marginBottom="@dimen/_25sdp"
+                android:background="@drawable/item"
+                android:ems="10"
+                android:hint="@string/item_price"
+                android:inputType="number"
+                android:paddingLeft="@dimen/_20sdp"
+                android:textColor="@color/black"
+                android:textColorHint="#F24C4B4B"
+                android:textSize="@dimen/_10ssp"
+                android:textStyle="bold" />
+
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/description"
+                android:layout_width="@dimen/_280sdp"
+                android:layout_height="@dimen/_90sdp"
+                android:layout_gravity="center"
+                android:layout_marginBottom="@dimen/_25sdp"
+                android:background="@drawable/item"
+                android:ems="10"
+                android:hint="@string/Description"
+                android:inputType="text"
+                android:paddingLeft="@dimen/_20sdp"
+                android:textColor="@color/black"
+                android:textColorHint="#F24C4B4B"
+                android:textSize="@dimen/_12ssp"
+                android:textStyle="bold" />
+
+            <RadioGroup
+                android:id="@+id/group"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/_30sdp"
+                android:layout_marginRight="@dimen/_30sdp"
+                android:orientation="vertical">
+
+                <com.google.android.material.radiobutton.MaterialRadioButton
+                    android:id="@+id/radioButton"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="6dp"
+                    android:fontFamily="@font/easterwishes"
+                    android:shadowColor="#2E2E32"
+                    android:shadowDx="1"
+                    android:shadowDy="1"
+                    android:shadowRadius="2"
+                    android:text="@string/cash"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/_10ssp" />
+
+                <com.google.android.material.radiobutton.MaterialRadioButton
+                    android:id="@+id/radioButton2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/easterwishes"
+                    android:shadowColor="#2E2E32"
+                    android:shadowDx="1"
+                    android:shadowDy="1"
+                    android:shadowRadius="2"
+                    android:text="@string/installments"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/_10ssp" />
+
+                <com.google.android.material.button.MaterialButton
+                    android:id="@+id/Item_details_Save_btn"
+                    android:layout_width="@dimen/_240sdp"
+                    android:layout_height="@dimen/_48sdp"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="@dimen/_20sdp"
+                    android:layout_marginTop="@dimen/_15sdp"
+                    android:layout_marginRight="@dimen/_20sdp"
+                    android:background="@drawable/btn2"
+                    android:textColor="#FFFFFF"
+                    android:textSize="@dimen/_10ssp"
+                    android:textStyle="bold"
+                    android:fontFamily="@font/cheerfulyellow"
+                    android:shadowColor="#FFFFFF"
+                    android:shadowDx="1"
+                    android:shadowDy="1"
+                    android:shadowRadius="2"
+                    android:text="@string/save"
+                    tools:ignore="MissingClass" />
+
+
+            </RadioGroup>
+        </LinearLayout>
+    </ScrollView>
+
+
